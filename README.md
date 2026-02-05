@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aditiT09/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/aditiT09/problem-solving/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aditiT09/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/aditiT09/problem-solving/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -19,4 +21,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aditiT09/problem-solving/tree/master/0496-next-greater-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aditiT09/problem-solving/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aditiT09/problem-solving/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aditiT09/problem-solving/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aditiT09/problem-solving/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aditiT09/problem-solving/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aditiT09/problem-solving/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
