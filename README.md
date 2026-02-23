@@ -47,4 +47,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aditiT09/problem-solving/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/aditiT09/problem-solving/tree/master/0938-range-sum-of-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/aditiT09/problem-solving/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/aditiT09/problem-solving/tree/master/0938-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/aditiT09/problem-solving/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
