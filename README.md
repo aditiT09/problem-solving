@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditiT09/problem-solving/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/aditiT09/problem-solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aditiT09/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/aditiT09/problem-solving/tree/master/0496-next-greater-element-i) |
 ## Stack
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/aditiT09/problem-solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aditiT09/problem-solving/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditiT09/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/aditiT09/problem-solving/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
