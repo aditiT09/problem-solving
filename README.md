@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aditiT09/problem-solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aditiT09/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/aditiT09/problem-solving/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/aditiT09/problem-solving/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/aditiT09/problem-solving/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aditiT09/problem-solving/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/aditiT09/problem-solving/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,8 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aditiT09/problem-solving/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/aditiT09/problem-solving/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/aditiT09/problem-solving/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/aditiT09/problem-solving/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditiT09/problem-solving/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/aditiT09/problem-solving/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
