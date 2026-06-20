@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/aditiT09/problem-solving/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/aditiT09/problem-solving/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditiT09/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditiT09/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/aditiT09/problem-solving/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/aditiT09/problem-solving/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/aditiT09/problem-solving/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/aditiT09/problem-solving/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aditiT09/problem-solving/tree/master/0242-valid-anagram) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditiT09/problem-solving/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/aditiT09/problem-solving/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/aditiT09/problem-solving/tree/master/0055-jump-game) |
 ## Sliding Window
 |  |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditiT09/problem-solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/aditiT09/problem-solving/tree/master/0199-binary-tree-right-side-view) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/aditiT09/problem-solving/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
