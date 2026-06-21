@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aditiT09/problem-solving/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/aditiT09/problem-solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aditiT09/problem-solving/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aditiT09/problem-solving/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/aditiT09/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aditiT09/problem-solving/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Bucket Sort
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aditiT09/problem-solving/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditiT09/problem-solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Breadth-First Search
 |  |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/aditiT09/problem-solving/tree/master/0044-wildcard-matching) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aditiT09/problem-solving/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
