@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aditiT09/problem-solving/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aditiT09/problem-solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aditiT09/problem-solving/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/aditiT09/problem-solving/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/aditiT09/problem-solving/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/aditiT09/problem-solving/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditiT09/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -35,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditiT09/problem-solving/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aditiT09/problem-solving/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/aditiT09/problem-solving/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/aditiT09/problem-solving/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aditiT09/problem-solving/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/aditiT09/problem-solving/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/aditiT09/problem-solving/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aditiT09/problem-solving/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/aditiT09/problem-solving/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/aditiT09/problem-solving/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditiT09/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditiT09/problem-solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aditiT09/problem-solving/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/aditiT09/problem-solving/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/aditiT09/problem-solving/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/aditiT09/problem-solving/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/aditiT09/problem-solving/tree/master/0567-permutation-in-string) |
