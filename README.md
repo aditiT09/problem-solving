@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aditiT09/problem-solving/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/aditiT09/problem-solving/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/aditiT09/problem-solving/tree/master/0567-permutation-in-string) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditiT09/problem-solving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aditiT09/problem-solving/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditiT09/problem-solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditiT09/problem-solving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
