@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/aditiT09/problem-solving/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aditiT09/problem-solving/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditiT09/problem-solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/aditiT09/problem-solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/aditiT09/problem-solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aditiT09/problem-solving/tree/master/0226-invert-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/aditiT09/problem-solving/tree/master/0938-range-sum-of-bst) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/aditiT09/problem-solving/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aditiT09/problem-solving/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditiT09/problem-solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/aditiT09/problem-solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/aditiT09/problem-solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aditiT09/problem-solving/tree/master/0226-invert-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/aditiT09/problem-solving/tree/master/0938-range-sum-of-bst) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/aditiT09/problem-solving/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aditiT09/problem-solving/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditiT09/problem-solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/aditiT09/problem-solving/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/aditiT09/problem-solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aditiT09/problem-solving/tree/master/0226-invert-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/aditiT09/problem-solving/tree/master/0938-range-sum-of-bst) |
