@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/aditiT09/problem-solving/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditiT09/problem-solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/aditiT09/problem-solving/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/aditiT09/problem-solving/tree/master/0226-invert-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/aditiT09/problem-solving/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/aditiT09/problem-solving/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditiT09/problem-solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/aditiT09/problem-solving/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/aditiT09/problem-solving/tree/master/0226-invert-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/aditiT09/problem-solving/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/aditiT09/problem-solving/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditiT09/problem-solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/aditiT09/problem-solving/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/aditiT09/problem-solving/tree/master/0226-invert-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/aditiT09/problem-solving/tree/master/0938-range-sum-of-bst) |
 ## Prefix Sum
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditiT09/problem-solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/aditiT09/problem-solving/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/aditiT09/problem-solving/tree/master/0226-invert-binary-tree) |
 ## Recursion
 |  |
 | ------- |
