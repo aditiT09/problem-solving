@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/aditiT09/problem-solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aditiT09/problem-solving/tree/master/0226-invert-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/aditiT09/problem-solving/tree/master/0938-range-sum-of-bst) |
+| [0968-binary-tree-cameras](https://github.com/aditiT09/problem-solving/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/aditiT09/problem-solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aditiT09/problem-solving/tree/master/0226-invert-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/aditiT09/problem-solving/tree/master/0938-range-sum-of-bst) |
+| [0968-binary-tree-cameras](https://github.com/aditiT09/problem-solving/tree/master/0968-binary-tree-cameras) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/aditiT09/problem-solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aditiT09/problem-solving/tree/master/0226-invert-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/aditiT09/problem-solving/tree/master/0938-range-sum-of-bst) |
+| [0968-binary-tree-cameras](https://github.com/aditiT09/problem-solving/tree/master/0968-binary-tree-cameras) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/aditiT09/problem-solving/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/aditiT09/problem-solving/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditiT09/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0968-binary-tree-cameras](https://github.com/aditiT09/problem-solving/tree/master/0968-binary-tree-cameras) |
 ## String
 |  |
 | ------- |
@@ -191,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/aditiT09/problem-solving/tree/master/1352-product-of-the-last-k-numbers) |
+## DP on Trees
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/aditiT09/problem-solving/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->
