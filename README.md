@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/aditiT09/problem-solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aditiT09/problem-solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aditiT09/problem-solving/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/aditiT09/problem-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/aditiT09/problem-solving/tree/master/0938-range-sum-of-bst) |
 | [0968-binary-tree-cameras](https://github.com/aditiT09/problem-solving/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/aditiT09/problem-solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aditiT09/problem-solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aditiT09/problem-solving/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/aditiT09/problem-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/aditiT09/problem-solving/tree/master/0938-range-sum-of-bst) |
 | [0968-binary-tree-cameras](https://github.com/aditiT09/problem-solving/tree/master/0968-binary-tree-cameras) |
 ## Binary Search Tree
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/aditiT09/problem-solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aditiT09/problem-solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aditiT09/problem-solving/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/aditiT09/problem-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/aditiT09/problem-solving/tree/master/0938-range-sum-of-bst) |
 | [0968-binary-tree-cameras](https://github.com/aditiT09/problem-solving/tree/master/0968-binary-tree-cameras) |
 ## Prefix Sum
@@ -225,5 +228,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/aditiT09/problem-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/aditiT09/problem-solving/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->
