@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aditiT09/problem-solving/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/aditiT09/problem-solving/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/aditiT09/problem-solving/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/aditiT09/problem-solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditiT09/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/aditiT09/problem-solving/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/aditiT09/problem-solving/tree/master/0283-move-zeroes) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aditiT09/problem-solving/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/aditiT09/problem-solving/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/aditiT09/problem-solving/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/aditiT09/problem-solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditiT09/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditiT09/problem-solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/aditiT09/problem-solving/tree/master/0968-binary-tree-cameras) |
