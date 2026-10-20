@@ -35,21 +35,48 @@ public:
 //     return ans;
 //     }  
 // };
-vector<int> twoSum(vector<int>& nums, int target) {
-    for (int i=0;i<nums.size();i++)
-    {
-        for (int j=i+1;j<nums.size();j++)
-        {
-            int sum=nums[i]+nums[j];
+// vector<int> twoSum(vector<int>& nums, int target) {
+//     for (int i=0;i<nums.size();i++)
+//     {
+//         for (int j=i+1;j<nums.size();j++)
+//         {
+//             int sum=nums[i]+nums[j];
             
-                if(sum==target)
-                {
-                    return {i,j};
-                }
+//                 if(sum==target)
+//                 {
+//                     return {i,j};
+//                 }
             
-        }
-    }
-     return {};
-  }
+//         }
+//     }
+//      return {};
+//   }
  
+// };
+  vector<int> twoSum(vector<int>& nums, int target) {
+    //     unordered_map<int,int> mp;
+    //     for(int i = 0; i < nums.size(); i++)
+    //     {
+    //         int needed = target - nums[i];
+    //         if(mp.find(needed) != mp.end())
+    //         {
+    //             return {mp[needed], i};
+    //         }
+    //         mp[nums[i]] = i;
+    //     }
+    //         return {};
+    // }
+    int n=nums.size();
+    unordered_map<int,int>m;
+    for(int i=0;i<n;i++)
+    {
+        int needed=target-nums[i];
+        if(m.find(needed)!=m.end())
+        {
+            return {m[needed],i};
+        }
+        m[nums[i]]=i;
+        }
+         return {};
+  }
 };
