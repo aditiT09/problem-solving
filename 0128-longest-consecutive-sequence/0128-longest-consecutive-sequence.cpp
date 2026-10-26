@@ -20,29 +20,47 @@ public:
 
     //     return longest;
   
+    //  int n=nums.size();
+    //  int count=1;
+    //  int longest=1;
+    //  if(nums.empty())
+    //  return 0;
+    //  sort(nums.begin(),nums.end());
+    //  for(int i=0;i<n-1;i++)
+    //  {
+    //     if(nums[i+1]==nums[i])
+    //     {
+    //         continue;
+    //     }
+    //     if(nums[i+1]-nums[i]==1)
+    //     {
+    //         count++;
+    //     }
+    //     else{
+    //         count=1;
+    //     }
+    //     longest=max(count,longest);
+    //  }
+    //  return longest;
 
-        if (nums.empty())
-            return 0;
+ unordered_set<int> st(nums.begin(), nums.end());
 
-        sort(nums.begin(), nums.end());
+        int longest = 0;
 
-        int n = nums.size();
-        int count = 1;
-        int longest = 1;
+        for (int num : st) {
 
-        for (int i = 0; i < n - 1; i++) {
+            if (st.find(num - 1) == st.end()) {
 
-            if (nums[i + 1] == nums[i])
-                continue;
+                int current = num;
+                int count = 1;
 
-            if (nums[i + 1] - nums[i] == 1) {
-                count++;
+                while (st.find(current + 1) != st.end()) {
+                    current++;
+                    count++;
+                }
+
+                longest = max(longest, count);
             }
-            else {
-                count = 1;
-            }
-
-            longest = max(longest, count);
         }
 
         return longest;
