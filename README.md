@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aditiT09/problem-solving/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0463-island-perimeter](https://github.com/aditiT09/problem-solving/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/aditiT09/problem-solving/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/aditiT09/problem-solving/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/aditiT09/problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/aditiT09/problem-solving/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/aditiT09/problem-solving/tree/master/0739-daily-temperatures) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aditiT09/problem-solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aditiT09/problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/aditiT09/problem-solving/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/aditiT09/problem-solving/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/aditiT09/problem-solving/tree/master/0567-permutation-in-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditiT09/problem-solving/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/aditiT09/problem-solving/tree/master/0523-continuous-subarray-sum) |
 | [1352-product-of-the-last-k-numbers](https://github.com/aditiT09/problem-solving/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/aditiT09/problem-solving/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aditiT09/problem-solving/tree/master/0048-rotate-image) |
+| [0523-continuous-subarray-sum](https://github.com/aditiT09/problem-solving/tree/master/0523-continuous-subarray-sum) |
 | [1352-product-of-the-last-k-numbers](https://github.com/aditiT09/problem-solving/tree/master/1352-product-of-the-last-k-numbers) |
 ## Design
 |  |
@@ -294,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aditiT09/problem-solving/tree/master/0128-longest-consecutive-sequence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/aditiT09/problem-solving/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
